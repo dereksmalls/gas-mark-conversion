@@ -1,0 +1,11 @@
+#feedback {
+  font-size: 30px;
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  margin-top: 20%;
+  background: teal;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
